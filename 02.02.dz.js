@@ -1,6 +1,3 @@
-// ====================================
-// НАСТРОЙКА ВВОДА ДАННЫХ (Node.js)
-// ====================================
 const readline = require("readline");
 
 const rl = readline.createInterface({
@@ -169,3 +166,4 @@ inputText(() => {
         });
     });
 });
+
